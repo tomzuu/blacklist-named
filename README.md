@@ -7,7 +7,7 @@
 * yoyo ad sites - ad server list maintained by Peter Lowe https://pgl.yoyo.org/adservers/
 
 ### other files
-* db.nullzone - bind zone file
+* null.zone.file - bind zone file
 
 ### how to use
 * pull all ".conf" files and "null.zone.file" to your bind directory
