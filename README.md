@@ -6,5 +6,13 @@
 * pushing sites - pushy crappy service advertisers that just won't let it go
 * yoyo ad sites - ad server list maintained by Peter Lowe https://pgl.yoyo.org/adservers/
 
+### other files
+* db.nullzone - bind zone file
+
 ### how to use
-List files (.conf) are ready to be included in Bind
+* pull all ".conf" files and "null.zone.file" to your bind directory
+* add entries to the named.conf, e.g.:
+  include "/etc/bind/ad.sites.conf";
+  include "/etc/bind/phishing.sites.conf";
+  include "/etc/bind/pushing.sites.conf";
+  include "/etc/bind/yoyo.ad.sites.conf";
