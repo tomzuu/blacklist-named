@@ -11,8 +11,9 @@
 
 ### how to use
 * pull all ".conf" files and "null.zone.file" to your bind directory
-* add entries to the named.conf, e.g.:\
-  `include "/etc/bind/ad.sites.conf";\
-  include "/etc/bind/phishing.sites.conf";\
-  include "/etc/bind/pushing.sites.conf";\
-  include "/etc/bind/yoyo.ad.sites.conf";` 
+* add entries to the named.conf, e.g.:
+  `include "/etc/bind/ad.sites.conf";
+  include "/etc/bind/phishing.sites.conf";
+  include "/etc/bind/pushing.sites.conf";
+  include "/etc/bind/yoyo.ad.sites.conf";`
+  
