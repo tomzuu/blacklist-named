@@ -5,6 +5,9 @@
 * phishing sites - speaks for itself
 * pushing sites - pushy crappy service advertisers that just won't let it go
 * yoyo ad sites - ad server list maintained by Peter Lowe https://pgl.yoyo.org/adservers/
+* cedia justdomains - https://mirror.cedia.org.ec/malwaredomains/justdomains
+* malwaredomainslist - https://www.malwaredomainlist.com/hostslist/hosts.txt
+* immortal domains - https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 
 ### other files
 * null.zone.file - bind zone file
