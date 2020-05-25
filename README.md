@@ -9,6 +9,10 @@
 * malwaredomainslist - https://www.malwaredomainlist.com/hostslist/hosts.txt
 * immortal domains - https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 
+### New sources as of 02.04.2020
+* https://apility.io/list/COINBLOCKER-30D-DOMAINS/type/baddomain
+* https://zerodot1.gitlab.io/CoinBlockerListsWeb/index.html
+
 ### other files
 * null.zone.file - bind zone file
 
