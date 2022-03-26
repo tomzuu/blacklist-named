@@ -1,5 +1,5 @@
 2b7661b88a892aa7d889a0fb3465a938  ad.sites.conf
-808cb02a1908a7110bb1072e1785d9f5  phishing.sites.conf
-95a7577b5a7d4f32cd2d95df8822b42b  spam.sites.conf
+6dd98676db33b6f57e93b2a85a8ce5b1  phishing.sites.conf
+caed34aaa8e2504051b985252c94f9f7  spam.sites.conf
 209b7a5a2bd65be1e9226fea3d789009  malwaredomainlist.conf
 b76c24c644dcffedc787f6efb34c2e26  cedia_justdomains.conf
